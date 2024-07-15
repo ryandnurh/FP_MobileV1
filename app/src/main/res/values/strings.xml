@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_name">Explore Sleman</string>
+    <string name="title">Explore Sleman</string>
+    <string name="fieldTitle1">Nominal</string>
+    <string name="fieldTitle2">Personil</string>
+
+    <string name="search">Cari</string>
+    <string name="nominal">Masukkan Nominal</string>
+    <string name="personal">Masukkan Personil</string>
+    <string name="login">Log in</string>
+    <string name="or">Or</string>
+    <string name="signUp">Sign Up</string>
+    <string name="profile">Profil</string>
+    <string name="history">Riwayat</string>
+
+    <string name="empty"> </string>
+
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+
+    <string name="Tours1">Paket #1 Tour\nKlangon Merapi</string>
+    <string name="Tours2">Paket #2 Tour\nWord Castle</string>
+    <string name="Tours3">Paket #3 Tour\nPunokawan</string>
+    <string name="Tours4">Paket #4 Tour\nLava Tour Merapi</string>
+    <string name="Tours5">Paket #5 Tour\nCandi Sambisari</string>
+
+    <string name="rating1">10/10</string>
+    <string name="rating2">9.5/10</string>
+    <string name="rating3">9/10</string>
+    <string name="rating4">8/10</string>
+    <string name="rating5">7/10</string>
+
+    <string name="ratingAmount1">(453)</string>
+    <string name="ratingAmount2">(192)</string>
+    <string name="ratingAmount3">(213)</string>
+    <string name="ratingAmount4">(411)</string>
+    <string name="ratingAmount5">(221)</string>
+
+    <string name="passHolder">Masukkan Password</string>
+    <string name="userHolder">Masukkan Username</string>
+    <string name="phoneHolder">Masukkan No Handphone</string>
+    <string name="emailHolder">Masukkan Email</string>
+
+    <string name="rupiah">Rp. </string>
+    <string name="recommend">Berikut Rekomendasi Paket Wisata Anda</string>
+    <string name="command">Silahkan masukkan data</string>
+
+    <string name="email">Email</string>
+    <string name="handpone">No Handphone</string>
+    <string name="notif">Anda perlu Log in</string>
+
+    <string name="profileTitle1">Nama Pengguna</string>
+    <string name="profileTitle2">Alamat Email</string>
+    <string name="profileTitle3">No Handphone</string>
+
+    <string name="profileValue1">Ateng Surateng</string>
+    <string name="profileValue2">surateng@Gmail.com</string>
+    <string name="profileValue3">0813–2525–8349</string>
+
+    <string name="price2">Rp. 850.000</string>
+    <string name="detailedOptions1">Destinasi</string>
+    <string name="detailedOptions2">Fasilitas</string>
+    <string name="detailedOptions3">Rencana</string>
+    <string name="detailed1">Hari Pertama:</string>
+    <string name="detailed2">Candi Prambanan  Goa Pindul \n Sate Kelinci Mbah Ganis</string>
+    <string name="orderNow">Pesan Sekarang</string>
+
+    <string name="titleOpening1">Explore Sleman</string>
+    <string name="titleOpening2">Nikmati Liburanmu</string>
+    <string name="titleOpening3">dengan </string>
+    <string name="titleOpening4">Explore Sleman</string>
+    <string name="explainerOpening1">Membuat perjalanan Anda sangat nyaman \n dan terpercaya di Sleman</string>
+    <string name="buttonOpening">Explore</string>
+    <string name="explainerOpening2">Menjelajahi Tempat Wisata</string>
+    <string name="explainerOpening3">Banyak tempat wisata yang ada di daerah Kabupaten Sleman</string>
+    <string name="log_out">Log Out</string>
+    <string name="paymentDetails">Detail Pesanan</string>
+    <string name="proceedPayment">Lanjutkan Pembayaran</string>
+
+    <string name="email_admin">davamr@amikom.ac.id</string>
+    <string name="password_admin">davagantengbanget</string>
+
+    <string name="error_input">Email atau Password Salah</string>
+    <string name="phone_admin">0813–2525–8349</string>
+    <string name="price_1">850000</string>
+    <string name="price_2">900000</string>
+    <string name="price_3">600000</string>
+    <string name="price_4">799000</string>
+    <string name="price_5">950000</string>
+    <string name="prices">850.000</string>
+
+    <string name="id_pemesan">ID Pemesan</string>
+    <string name="id_jumlah_personil">Jumlah Personil</string>
+
+    <string name="user_ID_1">ID Pemesan</string>
+    <string name="user_ID_2">Jumlah Pax</string>
+    <string name="user_ID_3">Personil: </string>
+    <string name="metode_pembayaran">Metode Pembayaran</string>
+    <string name="konfirmasi">Konfirmasi</string>
+    <string name="choice">Silahkan Pilih</string>
+    <string name="bank_bca">Bank BCA</string>
+    <string name="bank_bri">Bank BRI</string>
+    <string name="bank_bni">Bank BNI</string>
+    <string name="pembayaran_text">Pembayaran</string>
+    <string name="waiting_for_payment">Menunggu Pembayaran</string>
+    <string name="no_rekening_virtual_account">No Rekening/Virtual Account</string>
+    <string name="no_virtual_acc">126 0895 4026 55123</string>
+    <string name="salin">salin</string>
+    <string name="history_date">01 / 05 / 2024</string>
+    <string name="rate_confirmation">Anda belum memberi penilaian</string>
+    <string name="rate">Nilai</string>
+    <string name="develop">Dalam pengembangan</string>
+    <string name="payment_method">Metode Pembayaran</string>
+    <string name="rp">"Rp "</string>
+    <string name="go_to_main_menu">Kembali Ke Menu Utama</string>
+
+
+</resources>
